@@ -39,7 +39,4 @@ Two forms of load balancing are applied to reduce control divergence and uneven 
 ## Reference
 This implementation draws inspiration from the following work:
 
-[1] N. Pitaksirianan, Z. N. Lewis, and Y.-C. Tu,  
-“Algorithms and framework for computing 2-body statistics on GPUs,”  
-*Distributed and Parallel Databases*, vol. 37, no. 4, pp. 587–622, Aug. 2018.  
-https://doi.org/10.1007/s10619-018-7238-0
+[1] N. Pitaksirianan, Z. N. Lewis, and Y.-C. Tu, “Algorithms and framework for computing 2-body statistics on GPUs,” *Distributed and Parallel Databases*, vol. 37, no. 4, pp. 587–622, Aug. 2018. https://doi.org/10.1007/s10619-018-7238-0
